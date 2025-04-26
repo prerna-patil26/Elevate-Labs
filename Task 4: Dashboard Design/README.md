@@ -67,13 +67,3 @@ It supports informed decision-making for marketing and product strategies.
 
 ---
 
-## 📷 Screenshots
-![image](https://github.com/user-attachments/assets/0082bec3-f914-4e87-a62c-cd0d9794b412)
-
-
----
-
-## 📁 Files Included
-- `retail_sales_dataset.csv`
-- `Task-3-DA.pbix` 
-- `README.md`
