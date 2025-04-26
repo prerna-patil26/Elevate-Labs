@@ -45,7 +45,3 @@ To explore the dataset and extract meaningful business insights through well-des
 - Focus marketing efforts on the Technology category.
 - Explore opportunities to increase profit margins in the West region.
 
----
-
-## 🖼 Screenshots
-All key visuals have been exported as screenshots and added to the ![screenshots](https://github.com/kakarot7072/Data_Analyst_Intern/blob/main/Task-02/screenshot.png) folder.
